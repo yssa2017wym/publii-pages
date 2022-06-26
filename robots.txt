@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yssa2017wym.github.io/publii-pages/sitemap.xml

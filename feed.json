@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "天涯海阁",
+    "description": "",
+    "home_page_url": "https://yssa2017wym.github.io/publii-pages",
+    "feed_url": "https://yssa2017wym.github.io/publii-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "wayne"
+    },
+    "items": [
+        {
+            "id": "https://yssa2017wym.github.io/publii-pages/quan-shang-pin-he-xiao.html",
+            "url": "https://yssa2017wym.github.io/publii-pages/quan-shang-pin-he-xiao.html",
+            "title": "券商品核销",
+            "content_html": "\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"添加图片\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://yssa2017wym.github.io/publii-pages/media/posts/2/gallery/Wei-Xin-Tu-Pian_20220626204941.png\" data-size=\"1686x1450\"><img loading=\"lazy\" src=\"https://yssa2017wym.github.io/publii-pages/media/posts/2/gallery/Wei-Xin-Tu-Pian_20220626204941-thumbnail.png\" alt=\"1\" width=\"720\" height=\"619\"></a>\n<figcaption>券商品核销</figcaption>\n</figure>\n</div></div>\n<h1>1. 核销流程</h1>\n<p>定时</p>\n<p> </p>\n<h1>2. 过程说明</h1>\n<p> </p>\n<h1>3. 流程说明</h1>",
+            "author": {
+                "name": "wayne"
+            },
+            "tags": [
+                   "SSO"
+            ],
+            "date_published": "2022-06-26T20:51:45+08:00",
+            "date_modified": "2022-06-26T20:52:25+08:00"
+        },
+        {
+            "id": "https://yssa2017wym.github.io/publii-pages/20220621.html",
+            "url": "https://yssa2017wym.github.io/publii-pages/20220621.html",
+            "title": "20220621",
+            "summary": "1. 就会联系 上几点开考计算机。",
+            "content_html": "<h1>1. 就会联系</h1>\n<p> </p>\n<p>上几点开考计算机。</p>",
+            "author": {
+                "name": "wayne"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-21T07:44:15+08:00",
+            "date_modified": "2022-06-21T07:44:15+08:00"
+        }
+    ]
+}

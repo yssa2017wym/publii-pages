@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>天涯海阁</title>
+    <link href="https://yssa2017wym.github.io/publii-pages/feed.xml" rel="self" />
+    <link href="https://yssa2017wym.github.io/publii-pages" />
+    <updated>2022-06-26T20:52:25+08:00</updated>
+    <author>
+        <name>wayne</name>
+    </author>
+    <id>https://yssa2017wym.github.io/publii-pages</id>
+
+    <entry>
+        <title>券商品核销</title>
+        <author>
+            <name>wayne</name>
+        </author>
+        <link href="https://yssa2017wym.github.io/publii-pages/quan-shang-pin-he-xiao.html"/>
+        <id>https://yssa2017wym.github.io/publii-pages/quan-shang-pin-he-xiao.html</id>
+            <category term="SSO"/>
+
+        <updated>2022-06-26T20:52:25+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="3">
+<figure class="gallery__item"><a href="https://yssa2017wym.github.io/publii-pages/media/posts/2/gallery/Wei-Xin-Tu-Pian_20220626204941.png" data-size="1686x1450"><img loading="lazy" src="https://yssa2017wym.github.io/publii-pages/media/posts/2/gallery/Wei-Xin-Tu-Pian_20220626204941-thumbnail.png" alt="1" width="720" height="619"></a>
+<figcaption>券商品核销</figcaption>
+</figure>
+</div></div>
+<h1>1. 核销流程</h1>
+<p>定时</p>
+<p> </p>
+<h1>2. 过程说明</h1>
+<p> </p>
+<h1>3. 流程说明</h1>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>20220621</title>
+        <author>
+            <name>wayne</name>
+        </author>
+        <link href="https://yssa2017wym.github.io/publii-pages/20220621.html"/>
+        <id>https://yssa2017wym.github.io/publii-pages/20220621.html</id>
+
+        <updated>2022-06-21T07:44:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                    1. 就会联系 上几点开考计算机。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>1. 就会联系</h1>
+<p> </p>
+<p>上几点开考计算机。</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
